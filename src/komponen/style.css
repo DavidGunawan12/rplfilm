@@ -1,0 +1,32 @@
+.header {
+    height: 100vh;
+    background-image: url('../assets/images/bg/main.jpg');
+    background-size: cover;
+    
+}
+
+.caption {
+    height: 100vh;
+    display: flex;
+    color:burlywood;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.superhero {
+  height: auto;
+  background-image: url('../assets/images/bg/scifi.jpg');
+  background-size: cover;  
+}
+
+.trending {
+  height: auto;
+  background-image: url('../assets/images/bg/spiderman.jpg');
+  background-size: cover;  
+}
+
+.imgcard {
+  height: 500px;
+}
